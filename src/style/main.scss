@@ -1,0 +1,178 @@
+//@import "./_variables";
+body {
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    font-family: Inter;
+  }
+  
+  //.student{}
+  .p {
+    font-size: 20px;
+    display:block;
+    padding-left: 45%;
+    font-weight: 700;
+    
+
+    .p2{
+      padding-left: 50px;
+    }
+    .p2::first-letter{
+        color: #109CF1;
+      }
+    .pp::first-letter{
+      color: #109CF1;
+    }  
+    .p3{
+      padding-left: 75px;
+     
+    }
+    
+  }
+  .b{
+    width: 100%;
+    color: #000000;
+    text-align: center;
+    padding-right: 15px;
+  }
+  .com{
+   width: 100%;
+   padding-top: 20px;
+   border-top: 1px #000000;
+ } 
+ .c{
+  display: flex;
+  justify-content:space-around ;
+  font-size: 18px;
+  padding:0 50px 0 50px;
+  font-weight: 500;
+  
+ }
+
+ .ba{
+  width: 96%;
+  background-color: #121432;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 0 0 5px 0;
+  .b1{
+    font-weight: 500;
+    color:rgb(255, 255, 255);
+    font-size: 18px;
+    
+  }
+ }
+ .bar{
+  width: 100%;
+  padding-left: 10px;
+ }
+ .barr{
+  padding-top: 150px;
+  padding-left: 10px;
+ }
+ .reg{
+  font-weight: 400;
+ }
+ .dwon{
+  padding-top: 40px;
+ }
+ .d{
+   
+    width: 96%;
+    display: flex;
+    justify-content: space-around;
+    font-weight: 900;
+    text-decoration-line: underline;
+    
+}
+ /* .sidebar{
+    background-color: #121432;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 2rem 2rem;
+    width: 220px;
+    height: 100vh;
+  
+    
+  .logoContainer{
+    border-left: 10px;
+  
+    .head{
+     margin-top: 0; 
+     color: #ffff;
+     font-family: 'Bruno Ace SC', sans-serif;
+     font-size: 24px;
+     letter-spacing: 3px;
+     }      
+    .title{
+     color: #ffff;
+     font-size: 16px;
+     margin-top: 5px; 
+     }
+    
+   
+    }
+   
+    .contactContainer{
+      margin: 2rem 0 0 0;
+  
+      ul{
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        flex-direction: column;
+        list-style: none;
+        padding: 0;
+        margin-top:0px;
+        left: 0;
+  
+        li{
+          display: flex;
+          align-items: center;
+          justify-content: flex-start;
+          flex-direction: row;
+          margin: 0.75rem 0;
+          padding: 0.75rem 0;
+          width: 100%;
+          border-radius: 1rem;
+        
+  
+         img{
+          padding: 0 0.8rem 0 0;
+          
+         } 
+         a{
+          font-weight: 80;
+          text-decoration: none;
+          color: #ffff;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          margin: 0 0 0 0.3rem;
+          padding: 0 0 0 0.75rem ;
+         }
+        }
+      }
+    }
+  }
+  
+  .sidebar.active{
+    width: 80px;
+  
+   .head.active{
+    opacity: 0;
+   }
+   
+  
+   .contactContainer{
+    a{
+      opacity: 0;
+    }
+   }
+  }*/
+  
+  
