@@ -17,41 +17,31 @@ import Com from './Componant/Com';
 import Bar from './Componant/Bar';
 import Barr from './Componant/Barr';
 import Dwon from './Componant/Dwon';
+import Table from './Componant/Table';
+import Up from './Componant/Up';
+
+
+
 
 
 function App() {
   return (
       
    <>
-       
-      <div className='student'>
-        <Student/>
-      </div>
-     
-      <div className='com'>
-        <Com/>
-      </div>
+
+    <div>
+      <Up/>
+    </div>  
+
+    <div className='ta'>
+      <Table/>
+    </div>
 
 
-      <div className='bar' >
-        <Bar/>
-      </div>
-
-     <div className='barr'>
-       <Barr/>
-     </div>
-
-
-     <div className='dwon'>
-       <Dwon/>
-     </div>
-
-
-</>
+   </>
   
   );
  
 }
-
 
 export default App;

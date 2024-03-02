@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 
 
 const Student = () => {
@@ -15,4 +15,4 @@ const Student = () => {
     </>
   )
 }
-export default Student;
+export default Student;*/

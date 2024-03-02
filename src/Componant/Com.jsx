@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 
 
 const Com = () => {
@@ -26,4 +26,4 @@ const Com = () => {
       </>
       )
     }
-    export default Com;
+    export default Com;*/
